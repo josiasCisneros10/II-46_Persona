@@ -12,4 +12,40 @@ Option Explicit On
 
 
 Partial Public Class About
+
+    '''<summary>
+    '''txt_nombre control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents txt_nombre As Global.System.Web.UI.WebControls.TextBox
+
+    '''<summary>
+    '''txt_apellido control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents txt_apellido As Global.System.Web.UI.WebControls.TextBox
+
+    '''<summary>
+    '''btn_guardar control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents btn_guardar As Global.System.Web.UI.WebControls.Button
+
+    '''<summary>
+    '''lbl_mensaje control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents lbl_mensaje As Global.System.Web.UI.WebControls.Label
 End Class
